@@ -1,0 +1,16 @@
+MathApp by Militant Saungweme
+
+https://militant04.github.io
+
+
+Get this app by cloning it from github
+
+Set up cordova/phonegap in your environment by
+===========================================================================================
+
+1) Run -npm install cordova -g
+
+2) Navigate to the root folder of your project and run
+
+   -cordova init
+
